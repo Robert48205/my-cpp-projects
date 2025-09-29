@@ -1,6 +1,4 @@
-//This project is a fun and interactive number guessing game where the player bets money 
-// and tries to guess a randomly generated number within a specified range. 
-// The game rewards correct guesses and deducts money for incorrect ones, simulating a casino-like experience.
+
 #include <iostream>
 #include <cstring>
 #include <vector>
@@ -93,4 +91,5 @@ int main()
 
 	}
 }
+
 
